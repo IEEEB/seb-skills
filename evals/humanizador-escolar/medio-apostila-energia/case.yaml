@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: medio-apostila-energia
+expected_outcome: |
+  O arquivo apostila-energia.md é reescrito no lugar, em linguagem de ensino médio, sem resíduos de chatbot, emojis,
+  títulos em Title Case, "especialistas afirmam" sem fonte nem o palpite sobre famílias deslocadas apresentado como fato;
+  a tabela fica igual; o professor recebe notas na conversa.
+context:
+  scaffold_script: place-files.sh

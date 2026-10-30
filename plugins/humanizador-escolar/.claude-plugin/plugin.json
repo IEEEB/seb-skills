@@ -1,0 +1,13 @@
+{
+  "name": "humanizador-escolar",
+  "description": "Reescreve textos com cara de IA em português brasileiro natural e acessível para material didático, da pré-escola ao ensino médio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "IEEEB",
+    "url": "https://github.com/IEEEB"
+  },
+  "homepage": "https://github.com/IEEEB/seb-skills",
+  "repository": "https://github.com/IEEEB/seb-skills",
+  "license": "MIT",
+  "keywords": ["educação", "escola", "material didático", "português", "escrita", "humanizar"]
+}

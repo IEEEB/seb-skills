@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "seb-skills",
+  "owner": {
+    "name": "IEEEB",
+    "url": "https://github.com/IEEEB"
+  },
+  "description": "Skills para produção de material didático e rotinas da escola.",
+  "plugins": [
+    {
+      "name": "humanizador-escolar",
+      "source": "./plugins/humanizador-escolar",
+      "description": "Reescreve textos com cara de IA em português brasileiro natural e acessível para material didático, da pré-escola ao ensino médio.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "category": "educação",
+      "keywords": ["educação", "escola", "material didático", "português", "escrita", "humanizar"]
+    }
+  ]
+}
